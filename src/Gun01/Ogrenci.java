@@ -4,6 +4,6 @@ public class Ogrenci {
     public static void main(String[] args) {
 
 
-
+        System.out.println("please tell me , who are you github ");
     }
 }
